@@ -1,3 +1,3 @@
 # svelte-feedback-app
 
-# this project is my first look in the emerging
+# This project is my first look in the emerging Svelte framework
